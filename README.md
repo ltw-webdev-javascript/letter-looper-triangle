@@ -38,7 +38,7 @@ bbbbbbbbbb
 
 Create the interaction shown in the linked video.
 
-- [**Watch this video to see how it interacts.**](https://youtu.be/-X0jBThNUoM)
+- [**Watch this video to see how it interacts.**](https://videos.learntheweb.courses/playlists/web-dev-js/letter-looper-triangle.mp4)
 
 ---
 
